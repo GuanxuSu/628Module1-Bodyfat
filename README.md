@@ -1,4 +1,5 @@
-#628 Module1-Bodyfat
+##628 Module1-Bodyfat
+
 This Github repo is made by Guanxu Su, Chenlai Shi and Jing Tao as an assignment of course STAT 628 at University of Wisconsin-Madison.
 
 The repo contains:
