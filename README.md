@@ -11,3 +11,5 @@ The repo contains:
 (3) a code folder containing the R code named 628module1.r
 
 (4) an image folder containing all the images produced.
+
+(5) The presentation slides.
